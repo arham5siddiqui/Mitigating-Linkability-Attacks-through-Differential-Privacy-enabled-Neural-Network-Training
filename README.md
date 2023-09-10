@@ -1,4 +1,4 @@
-# Mitigating-Linkability-Attacks-through-Differential-Privacy
+# PreventingUserIdentification-Attacks-using-Differential-Privacy
 
 Add or upload the dataset "Experiment1" (consisting of 48 users data, each watching 9 videos) on your Google Colaboratory.
 
